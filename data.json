@@ -1,0 +1,175 @@
+[
+  {
+    "burgers": [
+      {
+        "id": 1,
+        "nom": "Cheese",
+        "prix": "3.90",
+        "image": "/burger1.jpg",
+        "ingredients": [
+          "steak 45g",
+          "crudités",
+          "cheddar",
+          "frites"
+        ]
+      },
+      {
+        "id": 2,
+        "nom": "Double Cheese",
+        "prix": "5.50",
+        "image": "/burger2.jpg",
+        "ingredients": [
+          "double steak",
+          "crudités",
+          "double cheddar",
+          "frites"
+        ]
+      },
+      {
+        "id": 3,
+        "nom": "Triple Cheese",
+        "prix": "6.90",
+        "image": "/burger2.jpg",
+        "ingredients": [
+          "triple steak",
+          "crudités",
+          "triple cheddar",
+          "frites"
+        ]
+      },
+      {
+        "id": 4,
+        "nom": "Burger Végé",
+        "prix": "6.50",
+        "image": "/burger1.jpg",
+        "ingredients": [
+          "salade",
+          "tomate",
+          "maïs",
+          "cornichons",
+          "concombre",
+          "poivrons grillés",
+          "courgettes grillées",
+          "olives",
+          "oignons cuits",
+          "galette de pomme de terre",
+          "oeuf",
+          "raclette",
+          "cheddar",
+          "frites"
+        ]
+      },
+      {
+        "id": 5,
+        "nom": "Country Burger",
+        "prix": "6.50",
+        "image": "/burger2.jpg",
+        "ingredients": [
+          "steak 90g",
+          "crudités",
+          "cheddar",
+          "galette de pomme de terre",
+          "frites"
+        ]
+      },
+      {
+        "id": 6,
+        "nom": "Chicken Burger",
+        "prix": "6.90",
+        "image": "/burger1.jpg",
+        "ingredients": [
+          "steak 90g",
+          "poulet pané",
+          "crudités",
+          "cheddar",
+          "frites"
+        ]
+      },
+      {
+        "id": 7,
+        "nom": "Catherine Burger",
+        "prix": "6.90",
+        "image": "/burger1.jpg",
+        "ingredients": [
+          "poulet pané",
+          "tomates",
+          "cornichons",
+          "fromage de chèvre",
+          "boursin",
+          "frites"
+        ]
+      },
+      {
+        "id": 8,
+        "nom": "Le Gladiateur",
+        "prix": "8.90",
+        "image": "/burger1.jpg",
+        "ingredients": [
+          "270g de steaks",
+          "crudités",
+          "fromage",
+          "frites"
+        ]
+      },
+      {
+        "id": 9,
+        "nom": "Le Tsunami",
+        "prix": "9.90",
+        "image": "/burger1.jpg",
+        "ingredients": [
+          "steak",
+          "poulet pané",
+          "crudités",
+          "galette de pomme de terre",
+          "oeuf",
+          "fromage",
+          "frites"
+        ]
+      },
+      {
+        "id": 10,
+        "nom": "Burger 180",
+        "prix": "8.90",
+        "image": "/burger1.jpg",
+        "ingredients": [
+          "180g de steaks",
+          "boeuf fumé",
+          "oeuf",
+          "crudités",
+          "fromage",
+          "frites"
+        ]
+      },
+      {
+        "id": 11,
+        "nom": "L'Anaconda",
+        "prix": "10.90",
+        "image": "/burger1.jpg",
+        "ingredients": [
+          "180g de steaks",
+          "boeuf fumé",
+          "double galette de pomme de terre",
+          "oeuf",
+          "crudités",
+          "fromage",
+          "frites"
+        ]
+      },
+      {
+        "id": 12,
+        "nom": "Le M'Bappé",
+        "prix": "11.50",
+        "image": "/burger1.jpg",
+        "ingredients": [
+          "180g de steaks",
+          "escalope de poulet",
+          "boeuf fumé",
+          "oeuf",
+          "crudités",
+          "fromage (chèvre ou camembert)",
+          "frites"
+        ]
+      }
+    ]
+  }
+]
